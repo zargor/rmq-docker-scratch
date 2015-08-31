@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos7
 MAINTAINER g.zaric@youngculture.com 
 
 RUN yum install wget
